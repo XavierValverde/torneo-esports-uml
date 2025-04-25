@@ -3,8 +3,7 @@
 Xavier Valverde Fernández  
 [Mi perfil de Github](https://github.com/XavierValverde)
 ## Descripción del Proyecto
-Link al repositorio del proyecto  
-[Link al repositorio del proyecto](https://github.com/XavierValverde/torneo-esports-uml) 
+[Link al repositorio del proyecto](https://github.com/XavierValverde/torneo-esports-uml)  
 Este proyecto implementa un sistema de gestión de torneos de eSports
 utilizando UML para el modelado y Java para la implementación.
 ## Diagramas UML
